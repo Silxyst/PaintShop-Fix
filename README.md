@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="docs/banner.png" width="100%" alt="PaintShop Fix Banner">
+</p>
+
+<p align="center">
   <img src="Paintshop/icon.png" width="120" alt="PaintShop Fix Logo">
 </p>
 
@@ -82,12 +86,12 @@
 
 ## 📸 Screenshots
 
-> 📌 **DICA:** Tire 2-3 prints pintando um carro e suba em `docs/screenshots/` — isso dobra as estrelas do repo!
-
 | Pintando no jogo | Sistema de camadas | Exportando skin |
 |:---:|:---:|:---:|
-| *`docs/screenshots/pintando.png`* | *`docs/screenshots/camadas.png`* | *`docs/screenshots/export.png`* |
+| <img src="docs/screenshots/pintando.png" width="100%"> | <img src="docs/screenshots/camadas.png" width="100%"> | <img src="docs/screenshots/export.png" width="100%"> |
 | Shift+Click na lataria e saia pintando | Até 32 camadas com opacidade | Um clique e vira skin nova |
+
+> 📌 Troque esses prints pelos seus: é só subir um PNG 1920x1080 com o mesmo nome em `docs/screenshots/` que a página atualiza sozinha!
 
 <details>
 <summary>🎬 Ver GIF de demonstração (clique para expandir)</summary>
