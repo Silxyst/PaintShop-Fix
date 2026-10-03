@@ -1,7 +1,7 @@
 ﻿<div align="center">
 <img src="assets/paint-hero.svg" alt="PaintShop Fix — pinte seu carro dentro do Assetto Corsa" width="100%">
 <br>
-<a href="https://github.com/Silxyst/PaintShop-Fix"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=ff4d8d&center=true&vCenter=true&width=720&lines=Pinte+seu+carro+DENTRO+do+Assetto+Corsa;32+camadas+%E2%80%A2+.pspaint+%E2%80%A2+autosave;Sem+Photoshop.+Sem+Alt+Tab." alt="Pinte seu carro dentro do Assetto Corsa"></a>
+<a href="https://github.com/Silxyst/PaintShop-Fix"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=ff4d8d&center=true&vCenter=true&width=720&lines=Pinte+seu+carro+DENTRO+do+Assetto+Corsa;32+camadas+%E2%80%A2+.pspaint+%E2%80%A2+autosave;Sem+Photoshop.+Sem+Alt%2BTab." alt="Pinte seu carro dentro do Assetto Corsa"></a>
 
 <p>
 <img src="Paintshop/icon.png" width="120" alt="PaintShop Fix Logo">
